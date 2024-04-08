@@ -1,0 +1,52 @@
+﻿  Chat.cpp
+d:\my programs\what's app console\contact.h(11): error C3646: 'contactChat': unknown override specifier
+d:\my programs\what's app console\contact.h(11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\my programs\what's app console\group.h(15): error C3646: 'admin': unknown override specifier
+d:\my programs\what's app console\group.h(15): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\my programs\what's app console\group.h(16): error C3646: 'groupChat': unknown override specifier
+d:\my programs\what's app console\group.h(16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  Contact.cpp
+d:\my programs\what's app console\group.h(15): error C3646: 'admin': unknown override specifier
+d:\my programs\what's app console\group.h(15): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\my programs\what's app console\group.h(16): error C3646: 'groupChat': unknown override specifier
+d:\my programs\what's app console\group.h(16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\my programs\what's app console\group.h(17): error C2065: 'Contact': undeclared identifier
+d:\my programs\what's app console\group.h(17): error C2923: 'std::list': 'Contact' is not a valid template type argument for parameter '_Ty'
+d:\my programs\what's app console\group.h(17): error C2903: 'allocator': symbol is neither a class template nor a function template
+d:\my programs\what's app console\group.h(17): error C3203: 'allocator': unspecialized class template can't be used as a template argument for template parameter '_Alloc', expected a real type
+d:\my programs\what's app console\group.h(18): error C2061: syntax error: identifier 'Contact'
+d:\my programs\what's app console\group.h(19): error C2061: syntax error: identifier 'Contact'
+d:\my programs\what's app console\user.h(12): error C2065: 'Contact': undeclared identifier
+d:\my programs\what's app console\user.h(12): error C2923: 'std::list': 'Contact' is not a valid template type argument for parameter '_Ty'
+d:\my programs\what's app console\user.h(12): error C2903: 'allocator': symbol is neither a class template nor a function template
+d:\my programs\what's app console\user.h(12): error C3203: 'allocator': unspecialized class template can't be used as a template argument for template parameter '_Alloc', expected a real type
+d:\my programs\what's app console\user.h(16): error C2061: syntax error: identifier 'Contact'
+d:\my programs\what's app console\user.h(17): error C2061: syntax error: identifier 'Contact'
+  Group.cpp
+d:\my programs\what's app console\message.h(9): error C3646: 'sender': unknown override specifier
+d:\my programs\what's app console\message.h(9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\my programs\what's app console\message.h(10): error C3646: 'reciever': unknown override specifier
+d:\my programs\what's app console\message.h(10): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\my programs\what's app console\user.h(13): error C2065: 'Group': undeclared identifier
+d:\my programs\what's app console\user.h(13): error C2923: 'std::list': 'Group' is not a valid template type argument for parameter '_Ty'
+d:\my programs\what's app console\user.h(13): error C2903: 'allocator': symbol is neither a class template nor a function template
+d:\my programs\what's app console\user.h(13): error C3203: 'allocator': unspecialized class template can't be used as a template argument for template parameter '_Alloc', expected a real type
+d:\my programs\what's app console\user.h(18): error C2061: syntax error: identifier 'Group'
+d:\my programs\what's app console\user.h(19): error C2061: syntax error: identifier 'Group'
+  Message.cpp
+d:\my programs\what's app console\chat.h(10): error C2065: 'Message': undeclared identifier
+d:\my programs\what's app console\chat.h(10): error C2923: 'std::list': 'Message' is not a valid template type argument for parameter '_Ty'
+d:\my programs\what's app console\chat.h(10): error C2903: 'allocator': symbol is neither a class template nor a function template
+d:\my programs\what's app console\chat.h(10): error C3203: 'allocator': unspecialized class template can't be used as a template argument for template parameter '_Alloc', expected a real type
+d:\my programs\what's app console\chat.h(12): error C2061: syntax error: identifier 'Message'
+d:\my programs\what's app console\chat.h(13): error C2061: syntax error: identifier 'Message'
+d:\my programs\what's app console\group.h(15): error C3646: 'admin': unknown override specifier
+d:\my programs\what's app console\group.h(15): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  User.cpp
+d:\my programs\what's app console\message.h(9): error C3646: 'sender': unknown override specifier
+d:\my programs\what's app console\message.h(9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\my programs\what's app console\message.h(10): error C3646: 'reciever': unknown override specifier
+d:\my programs\what's app console\message.h(10): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\my programs\what's app console\group.h(15): error C3646: 'admin': unknown override specifier
+d:\my programs\what's app console\group.h(15): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  Generating Code...
